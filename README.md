@@ -7,7 +7,7 @@ An advanced AI chatbot project built using:
 - FAISS + PyPDF2 + scikit-learn (for PDF Q&A document search)  
 
 ## 🌍 Live Demo
-👉 [Click here to try the chatbot](https://your-app-link.streamlit.app)  
+👉 [Click here to try the chatbot]([https://your-app-link.streamlit.app](https://chatbot-project-fkts6jqxocoyyojuk9p6pj.streamlit.app/))  
 
 ## ✨ Features
 - 🔹 Multi-turn conversation with memory  
